@@ -1,0 +1,83 @@
+# depslib dependency file v1.0
+1523370417 source:e:\cpp\tubes std kelompok 16\child.cpp
+	"child.h"
+
+1523374248 source:e:\cpp\tubes std kelompok 16\parent.cpp
+	"parent.h"
+
+1523801791 e:\cpp\tubes std kelompok 16\parent.h
+	"relation.h"
+	"child.h"
+
+1523800589 source:e:\cpp\tubes std kelompok 16\relation.cpp
+	"relation.h"
+
+1523362839 source:e:\cpp\tubes std kelompok 16\main.cpp
+	<stdlib.h>
+	<conio.h>
+	<string>
+	<stdio.h>
+	"parent.h"
+	"child.h"
+	"relation.h"
+	"procmain.h"
+
+1523370105 e:\cpp\tubes std kelompok 16\child.h
+	<iostream>
+	<string>
+
+1522973529 e:\cpp\tubes std kelompok 16\relation.h
+	<iostream>
+	"child.h"
+
+1523370631 source:e:\cpp\tubes std kelompok 16\procmain.cpp
+	"procmain.h"
+
+1523362839 e:\cpp\tubes std kelompok 16\procmain.h
+	<iostream>
+	<stdlib.h>
+	"parent.h"
+	"child.h"
+	"relation.h"
+
+1523370417 source:e:\files\teknik informatika\semester 2\struk data\tubes\tubes std kelompok 16\child.cpp
+	"child.h"
+
+1523370105 e:\files\teknik informatika\semester 2\struk data\tubes\tubes std kelompok 16\child.h
+	<iostream>
+	<string>
+
+1523362839 source:e:\files\teknik informatika\semester 2\struk data\tubes\tubes std kelompok 16\main.cpp
+	<stdlib.h>
+	<conio.h>
+	<string>
+	<stdio.h>
+	"parent.h"
+	"child.h"
+	"relation.h"
+	"procmain.h"
+
+1523801791 e:\files\teknik informatika\semester 2\struk data\tubes\tubes std kelompok 16\parent.h
+	"relation.h"
+	"child.h"
+
+1522973529 e:\files\teknik informatika\semester 2\struk data\tubes\tubes std kelompok 16\relation.h
+	<iostream>
+	"child.h"
+
+1523362839 e:\files\teknik informatika\semester 2\struk data\tubes\tubes std kelompok 16\procmain.h
+	<iostream>
+	<stdlib.h>
+	"parent.h"
+	"child.h"
+	"relation.h"
+
+1523374248 source:e:\files\teknik informatika\semester 2\struk data\tubes\tubes std kelompok 16\parent.cpp
+	"parent.h"
+
+1523370631 source:e:\files\teknik informatika\semester 2\struk data\tubes\tubes std kelompok 16\procmain.cpp
+	"procmain.h"
+
+1523800589 source:e:\files\teknik informatika\semester 2\struk data\tubes\tubes std kelompok 16\relation.cpp
+	"relation.h"
+
